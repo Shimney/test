@@ -12,9 +12,13 @@
         "bargeIn": true
     },
     {
-        "action": "input",
-        "submitOnHash": true,
-        "timeOut": 10
+       
+      "action": "transfer",
+      "destination": {
+      "type": "ncco",
+      "url": ["http://example.org/new-ncco.json"]
+    }
+
     },
     {
         "action": "talk",
