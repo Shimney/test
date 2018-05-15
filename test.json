@@ -1,3 +1,4 @@
+
 [
     {
         "action": "talk",
@@ -15,10 +16,6 @@
         "action": "input",
         "submitOnHash": true,
         "timeOut": 10
-    {
-        "action": "talk",
-        "text": "Please wait while we connect you."
-        "voice": "amy",
     },
     {
         "action": "connect",
