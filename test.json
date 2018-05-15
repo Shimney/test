@@ -15,10 +15,20 @@
         "action": "input",
         "submitOnHash": true,
         "timeOut": 10
-    },
     {
         "action": "talk",
-        "text": "Thanks for your input, goodbye.",
-        "voiceName": "Amy"
+        "text": "Please wait while we connect you."
+        "voice": "amy",
+    },
+    {
+        "action": "connect",
+        "timeout": 20,
+        "from": "12017628330",
+        "endpoint": [
+            {
+                "type": "phone",
+                "number": "17202018419"
+            }
+        ]
     }
 ]
