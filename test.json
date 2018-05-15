@@ -2,13 +2,13 @@
 [
     {
         "action": "talk",
-        "text": "Thanks for calling Tailwind Expeditions.",
+        "text": "Thanks for calling tailwind xpeditions.",
         "voiceName": "Amy",
         "bargeIn": false
     },
     {
         "action": "talk",
-        "text": "for Customer Service, press 1, for information on tours, Press 2, for Private and corporate events press 4, if you wish to reach someone on a tour press 6.",
+        "text": "for Customer Service, press 1. for information on tours, Press 2, for Private and corporate events please press 4",
         "voiceName": "Amy",
         "bargeIn": true
     },
@@ -19,7 +19,9 @@
     },
     {
         "action": "talk",
-        "text": "Please wait while we connec your call"
+        "text": "Please wait while we connect your call"
+        "voiceName": "Amy",
+        "bargeIn": false
     },
     {
         "action": "connect",
