@@ -1,7 +1,24 @@
 [
-    {   "action": "talk",
-        "voiceName": "russel",
-        "text": "Thanks for calling Tailwind expeditions. For customer service, please press 1 for other press 5"
+    {
+        "action": "talk",
+        "text": "Thanks for calling so and so to a Voice API I V R.",
+        "voiceName": "Amy",
+        "bargeIn": false
+    },
+    {
+        "action": "talk",
+        "text": "Press 1, for maybe, and 2, for not sure, followed by pound.",
+        "voiceName": "Amy",
+        "bargeIn": true
+    },
+    {
+        "action": "input",
+        "submitOnHash": true,
+        "timeOut": 10
+    },
+    {
+        "action": "talk",
+        "text": "Thanks for your input, goodbye.",
+        "voiceName": "Amy"
     }
 ]
-        
