@@ -17,9 +17,8 @@
       "destination": {
       "type": "ncco",
       "url": ["https://raw.githubusercontent.com/Shimney/test/master/2.json"]
-    }
-
     },
+
     {
         "action": "talk",
         "text": "Thanks for your input, goodbye.",
