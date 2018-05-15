@@ -18,6 +18,10 @@
         "timeOut": 10
     },
     {
+        "action": "talk",
+        "text": "Please wait while we connec your call"
+    },
+    {
         "action": "connect",
         "timeout": 20,
         "from": "12017628330",
