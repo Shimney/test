@@ -19,7 +19,7 @@
     },
     {
         "action": "talk",
-        "text": "Please wait while we connect your call"
+        "text": "Please wait while we connect your call",
         "voiceName": "Amy",
         "bargeIn": false
     },
