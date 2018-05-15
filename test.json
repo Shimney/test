@@ -1,8 +1,8 @@
 [
     {
         "action": "talk",
-        "text": "Thanks for calling so and so to a Voice API I V R.",
-        "voiceName": "Amy",
+        "text": "Hi, Thanks for calling Tailwind Expeditions.",
+        "voiceName": "Jennifer",
         "bargeIn": false
     },
     {
