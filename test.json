@@ -1,14 +1,14 @@
 [
     {
         "action": "talk",
-        "text": "Hi, Thanks for calling Tailwind Expeditions.",
-        "voiceName": "kimberly",
+        "text": "Thanks for calling Tailwind Expeditions.",
+        "voiceName": "Amy",
         "bargeIn": false
     },
     {
         "action": "talk",
         "text": "for Customer Service, press 1, for information on tours, Press 2, for Private and corporate events press 4, if you wish to reach someone on a tour press 6.",
-        "voiceName": "kimberly",
+        "voiceName": "Amy",
         "bargeIn": true
     },
     {
