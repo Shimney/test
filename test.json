@@ -14,7 +14,7 @@
     },
     {
         "action": "input",
-        "submitOnHash": true,
+        "submitOnHash": false,
         "timeOut": 10
     },
     {
