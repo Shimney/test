@@ -11,8 +11,11 @@
         "voiceName": "kimberly",
         "bargeIn": true
     },
-
-
+    {
+        "action": "input",
+        "submitOnHash": true,
+        "timeOut": 10
+    },
     {
         "action": "talk",
         "text": "Thanks for your input, goodbye.",
