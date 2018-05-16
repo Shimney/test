@@ -8,14 +8,14 @@
     },
     {
         "action": "talk",
-        "text": "for customer service, press 2. for information on tours, Press 3. For Private and corporate events please press 5.",
+        "text": "Please select the following options followed by the pound sign. for customer service, press 2. for information on tours, Press 3. For Private and corporate events please press 5.",
         "voiceName": "Amy",
         "bargeIn": true
     },
     {
         "action": "input",
-        "submitOnHash": false,
-        "timeOut": 2
+        "submitOnHash": true,
+        "timeOut": 10
     },
     {
         "action": "talk",
