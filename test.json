@@ -9,7 +9,7 @@
     {
         "action": "talk",
         "text": "Please select the following option, followed by the # sign. for customer service, press 2. for information on tours, Press 3. For Private and corporate events please press 5.",
-        "voiceName": "Emma",
+        "voiceName": "Joey",
         "bargeIn": true
     },
     {
