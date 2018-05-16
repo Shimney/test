@@ -2,8 +2,8 @@
 [
     {
         "action": "talk",
-        "text": "Thanks for calling tailwind xpeditions.",
-        "voiceName": "Amy",
+        "text": "Thanks for calling tailwind xpeditions, This is a tesst. for a press 2.",
+        "voiceName": "Kimberly",
         "bargeIn": false
     },
     {
